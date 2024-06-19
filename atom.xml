@@ -3,11 +3,11 @@
   <title>咕咕鸡从不咕咕</title>
   <icon>https://www.gravatar.com/avatar/ad492a2d1d9ad5830bcdd06209040c71</icon>
   <subtitle>啥也不会</subtitle>
-  <link href="https://ggjcbgg.github.io/atom.xml" rel="self"/>
+  <link href="https://www.ggjcbgg.icu/atom.xml" rel="self"/>
   
-  <link href="https://ggjcbgg.github.io/"/>
+  <link href="https://www.ggjcbgg.icu/"/>
   <updated>2022-08-28T06:28:57.163Z</updated>
-  <id>https://ggjcbgg.github.io/</id>
+  <id>https://www.ggjcbgg.icu/</id>
   
   <author>
     <name>咕咕鸡从不咕咕</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>设计模式</title>
-    <link href="https://ggjcbgg.github.io/posts/a2d2.html"/>
-    <id>https://ggjcbgg.github.io/posts/a2d2.html</id>
+    <link href="https://www.ggjcbgg.icu/posts/a2d2.html"/>
+    <id>https://www.ggjcbgg.icu/posts/a2d2.html</id>
     <published>2022-08-27T06:19:00.000Z</published>
     <updated>2022-08-28T06:28:57.163Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="设计模式" scheme="https://ggjcbgg.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <category term="设计模式" scheme="https://www.ggjcbgg.icu/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-    <category term="设计模式" scheme="https://ggjcbgg.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <category term="设计模式" scheme="https://www.ggjcbgg.icu/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>Spring5</title>
-    <link href="https://ggjcbgg.github.io/posts/58c6.html"/>
-    <id>https://ggjcbgg.github.io/posts/58c6.html</id>
+    <link href="https://www.ggjcbgg.icu/posts/58c6.html"/>
+    <id>https://www.ggjcbgg.icu/posts/58c6.html</id>
     <published>2022-08-14T07:04:17.000Z</published>
     <updated>2022-08-28T06:23:10.604Z</updated>
     
@@ -61,10 +61,10 @@
     
     
     
-    <category term="spring" scheme="https://ggjcbgg.github.io/categories/spring/"/>
+    <category term="spring" scheme="https://www.ggjcbgg.icu/categories/spring/"/>
     
     
-    <category term="spring" scheme="https://ggjcbgg.github.io/tags/spring/"/>
+    <category term="spring" scheme="https://www.ggjcbgg.icu/tags/spring/"/>
     
   </entry>
   
